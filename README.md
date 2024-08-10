@@ -9,14 +9,14 @@
 <img align="right" alt="Coding" width="130" src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" height="145">
 
 
-- 🔭 I’m currently working on **StormSense**
+- 🔭 I’m currently working on: **StormSense**
 
-- 🌱 I’m currently learning **Swift & SwiftUI**
+- 🌱 I’m currently learning: **Swift & SwiftUI**
 
-- 📫 How to reach me **jmehul721@gmail.com**
+- 📫 How to reach me: **jmehul721@gmail.com**
 
 - 📄 Know about me: <a href="https://drive.google.com/file/d/1rEOMUTJkN7e8kGEjzTfHuWmC_LsDHs33/view?usp=drive_link" alt="My Resume">My Resume</a>
-- ⚡ Fun fact **I love travelling and stargazing.**
+- ⚡ Fun fact: **I love travelling and stargazing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
