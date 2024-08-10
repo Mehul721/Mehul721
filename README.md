@@ -3,9 +3,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehul721" alt="mehul721" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mehulja33684600" target="blank"><img src="https://img.shields.io/twitter/follow/mehulja33684600?logo=twitter&style=for-the-badge" alt="mehulja33684600" /></a> </p>
-<img align="right" alt="Coding" width="130" src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif">
+<img align="right" src="https://i.pinimg.com/originals/a7/37/2e/a7372eaaeafa289f28534ad39d96d517.gif" width="165" height="140">
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHfvJQdTD8IFAUS4jNkFrVYGai1NknAbHAMA&s" width="150" height="140">
 <img align="right" src="https://p.atrick.org/assets/swift-for-web-designers/swift_logo.png" width="150">
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWDVwQq2Oe7depHG5d_z4mnBcBai3dei7bA&s" width="150" height="150">
+<img align="right" alt="Coding" width="130" src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" height="145">
 
 
 - 🔭 I’m currently working on **StormSense**
@@ -32,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehul721&show_icons=true&locale=en&layout=compact" alt="mehul721" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehul721&" alt="mehul721" /></p>
+
+
