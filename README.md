@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/mehulja33684600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehulja33684600" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehul-jain-767296191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-jain-767296191" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mehul-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mehul-jain" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26736440/mehul-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mehul-jain" height="30" width="40" /></a>
 <a href="https://medium.com/@jmehul721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jmehul721" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jmehul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jmehul" height="30" width="40" /></a>
 </p>
