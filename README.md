@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **jmehul721@gmail.com**
 
-- 📄 Know about me: <a href="https://drive.google.com/file/d/1rEOMUTJkN7e8kGEjzTfHuWmC_LsDHs33/view?usp=drive_link" alt="My Resume">My Resume</a>
+- 📄 Know about me: <a href="https://drive.google.com/file/d/1rEOMUTJkN7e8kGEjzTfHuWmC_LsDHs33/view?usp=drive_link" alt="My Resume">Resume</a>
 - ⚡ Fun fact: **I love travelling and stargazing.**
 
 <h3 align="left">Connect with me:</h3>
