@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on: **CoinSight**
 
-- 🌱 I’m currently learning: **Swift & SwiftUI**
+- 🌱 I’m currently learning: **Web Dev**
 
 - 📫 How to reach me: **jmehul721@gmail.com**
 
